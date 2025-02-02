@@ -9,4 +9,4 @@ function firstChar(text) {
 
 
 const text = prompt("Enter text:");
-alert(firstChar(text));
+// alert(firstChar(text));
